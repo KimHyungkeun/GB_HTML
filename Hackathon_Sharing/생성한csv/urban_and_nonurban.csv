@@ -1,5 +1,0 @@
-LandUseCase,ToxictyCategory,Percent(%),ToxicAvg
-< 7% Urban,Toxic,18.3,0.6484129697520833
-< 30% Urban,Toxic,15.4,0.8722159320732142
-< 60% Urban,Toxic,25.9,1.3864261577302084
-<= 100% Urban,Toxic,29.9,5.830843991340637
